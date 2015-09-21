@@ -5,7 +5,7 @@
 
 
 ;------------------------------------------->   X1: SCHEME BASICS   <-------------------------------------------------
-
+;-----> Detailed Exercise Instructions: https://drive.google.com/file/d/0B4mMtieYoaNDSTB1NzdzV1hkelk/view?usp=sharing <----
 
 
 ;---Task 1: Introduction---
