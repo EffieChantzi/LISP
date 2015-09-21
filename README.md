@@ -1,2 +1,2 @@
-# Functional Programming - LISP
-Discrete Computational Biology (working with Scheme version of Lisp)
+#LISP
+Discrete Computational Biology (functional programming with Scheme version of Lisp)
