@@ -1,6 +1,6 @@
-#Discrete Computational Biology
+# Discrete Computational Biology
 
-##Functional programming with Scheme version of Lisp
+## Functional programming with Scheme version of Lisp
 
 This repository consists a portfolio for the master's course "Discrete Computational Biology" taken during period 1 of fall semester 2014 at Uppsala University.
 
